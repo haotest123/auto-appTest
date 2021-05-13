@@ -1,0 +1,16 @@
+# 设备系统名称
+platformName: Android
+platformVersion: 7.1.2   #安卓版本
+deviceName: 127.0.0.1:21503  #设备为逍遥模拟器，端口为 21503
+sessionOverride: True
+# 不需要每次都安装apk
+appname: todolist.apk     #todolist的名字
+#appname: 抖音.apk
+noReset: True
+# 设置V1.5.0以上的appium默认使用UiAutomator2
+automationName: UiAutomator2
+appPackage: com.example.todolist   #todolist的包名
+#appPackage: com.ss.android.ugc.aweme   #抖音的包名
+appActivity: com.example.todolist.LoginActivity
+ip: 127.0.0.1
+port: 4723

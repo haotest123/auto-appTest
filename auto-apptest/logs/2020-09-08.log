@@ -1,0 +1,185 @@
+2020-09-08 11:18:02,767 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-08 11:18:02,768 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-08 11:18:04,337 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:18:06,337 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-08 11:18:07,389 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:18:09,390 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面点击登录按钮
+2020-09-08 11:18:09,441 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:18:09,441 -test_appIncrease.py- appIncrease - INFO - -------------------APP自动化测试新增事务场景开始执行-----------------------
+2020-09-08 11:18:09,441 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面右上角点击‘+’号
+2020-09-08 11:18:10,369 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:18:12,369 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面输入新增的事务内容
+2020-09-08 11:18:13,453 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:18:15,454 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击保存按钮
+2020-09-08 11:18:15,499 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:18:17,500 -test_appIncrease.py- appIncrease - INFO - -------------------APP自动化测试编辑事务场景开始执行-------------------
+2020-09-08 11:18:17,500 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在事务列表页面长按一条事务
+2020-09-08 11:18:18,321 -base.py- BasePage - INFO - 长按元素成功
+2020-09-08 11:18:20,321 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击编辑按钮
+2020-09-08 11:18:21,244 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:18:23,246 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 对事务进行编辑
+2020-09-08 11:18:23,823 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:18:25,823 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击保存按钮
+2020-09-08 11:18:25,871 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:18:27,871 -test_appIncrease.py- appIncrease - INFO - --------------------APP自动化测试删除事务场景开始执行--------------------
+2020-09-08 11:18:27,871 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在事务列表页面长按一条事务
+2020-09-08 11:18:28,678 -base.py- BasePage - INFO - 长按元素成功
+2020-09-08 11:18:35,788 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击删除按钮
+2020-09-08 11:18:36,684 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:18:38,684 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击确定按钮
+2020-09-08 11:18:38,725 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:18:40,725 -test_appIncrease.py- appIncrease - INFO - --------------------APP自动化测试退出场景开始执行-------------------
+2020-09-08 11:18:40,725 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面右上角点击退出图标
+2020-09-08 11:18:40,772 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:18:42,772 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面右上角点击退出按钮
+2020-09-08 11:18:43,627 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:18:45,628 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击确定按钮
+2020-09-08 11:18:45,671 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:29:39,344 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-08 11:29:39,345 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-08 11:29:40,377 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:29:42,378 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-08 11:29:42,948 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:29:44,948 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面点击登录按钮
+2020-09-08 11:29:44,994 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:29:44,994 -test_appIncrease.py- appIncrease - INFO - -------------------APP自动化测试新增事务场景开始执行-----------------------
+2020-09-08 11:29:44,994 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面右上角点击‘+’号
+2020-09-08 11:29:45,985 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:29:47,986 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面输入新增的事务内容
+2020-09-08 11:29:48,569 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:29:50,569 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击保存按钮
+2020-09-08 11:29:50,618 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:29:52,618 -test_appIncrease.py- appIncrease - INFO - -------------------APP自动化测试编辑事务场景开始执行-------------------
+2020-09-08 11:29:52,618 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在事务列表页面长按一条事务
+2020-09-08 11:29:53,432 -base.py- BasePage - INFO - 长按元素成功
+2020-09-08 11:29:55,433 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击编辑按钮
+2020-09-08 11:29:56,302 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:29:58,874 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 对事务进行编辑
+2020-09-08 11:29:59,435 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:30:01,435 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击保存按钮
+2020-09-08 11:30:01,478 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:30:03,478 -test_appIncrease.py- appIncrease - INFO - --------------------APP自动化测试删除事务场景开始执行--------------------
+2020-09-08 11:30:03,478 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在事务列表页面长按一条事务
+2020-09-08 11:30:04,289 -base.py- BasePage - INFO - 长按元素成功
+2020-09-08 11:30:11,432 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击删除按钮
+2020-09-08 11:30:12,311 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:30:14,311 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击确定按钮
+2020-09-08 11:30:14,362 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:30:16,363 -test_appIncrease.py- appIncrease - INFO - --------------------APP自动化测试退出场景开始执行-------------------
+2020-09-08 11:30:16,363 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面右上角点击退出图标
+2020-09-08 11:30:16,411 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:30:18,411 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面右上角点击退出按钮
+2020-09-08 11:30:19,272 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:30:21,273 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击确定按钮
+2020-09-08 11:30:21,309 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:35:00,186 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-08 11:35:00,187 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-08 11:35:01,201 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:35:03,203 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-08 11:35:03,778 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:35:05,780 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面点击登录按钮
+2020-09-08 11:35:05,823 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:35:05,823 -test_appIncrease.py- appIncrease - INFO - -------------------APP自动化测试新增事务场景开始执行-----------------------
+2020-09-08 11:35:05,823 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面右上角点击‘+’号
+2020-09-08 11:35:06,719 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:35:08,719 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面输入新增的事务内容
+2020-09-08 11:35:09,307 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:35:11,307 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击保存按钮
+2020-09-08 11:35:11,353 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:35:13,354 -test_appIncrease.py- appIncrease - INFO - -------------------APP自动化测试编辑事务场景开始执行-------------------
+2020-09-08 11:35:13,354 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在事务列表页面长按一条事务
+2020-09-08 11:35:14,179 -base.py- BasePage - INFO - 长按元素成功
+2020-09-08 11:35:16,180 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击编辑按钮
+2020-09-08 11:35:17,076 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:35:19,119 -base.py- BasePage - INFO - 清除文本框成功
+2020-09-08 11:35:19,119 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 对事务进行编辑
+2020-09-08 11:35:19,690 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:35:21,691 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击保存按钮
+2020-09-08 11:35:21,732 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:35:23,734 -test_appIncrease.py- appIncrease - INFO - --------------------APP自动化测试删除事务场景开始执行--------------------
+2020-09-08 11:35:23,734 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在事务列表页面长按一条事务
+2020-09-08 11:35:24,552 -base.py- BasePage - INFO - 长按元素成功
+2020-09-08 11:35:31,673 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击删除按钮
+2020-09-08 11:35:31,728 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:35:33,728 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击确定按钮
+2020-09-08 11:35:33,768 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:35:35,768 -test_appIncrease.py- appIncrease - INFO - --------------------APP自动化测试退出场景开始执行-------------------
+2020-09-08 11:35:35,768 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面右上角点击退出图标
+2020-09-08 11:35:35,816 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:35:37,816 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面右上角点击退出按钮
+2020-09-08 11:35:38,678 -base.py- BasePage - INFO - 执行成功
+2020-09-08 11:35:40,679 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击确定按钮
+2020-09-08 11:35:40,716 -base.py- BasePage - INFO - 执行成功
+
+
+
+=====================================================================2020-09-08 15:02:33,078 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-08 15:02:33,078 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-08 15:02:33,078 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001F6BEC0EB88>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-08 15:02:33,079 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001F6BEC0EB88>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-08 15:02:35,079 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-08 15:02:35,079 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001F6BEC0EB88>, ('id', 'com.example.todolist:id/passwordET'))
+2020-09-08 15:02:35,079 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001F6BEC0EB88>, ('id', 'com.example.todolist:id/passwordET'))
+2020-09-08 15:02:37,080 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面点击登录按钮
+2020-09-08 15:02:37,080 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001F6BEC0EB88>, ('id', 'com.example.todolist:id/loginBtn'))
+2020-09-08 15:02:37,202 -test_appIncrease.py- appIncrease - INFO - -------------------APP自动化测试新增事务场景开始执行-----------------------
+2020-09-08 15:02:37,202 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面右上角点击‘+’号
+2020-09-08 15:02:37,202 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x000001F6BEC3B288>, ('id', 'com.example.todolist:id/action_new'))
+2020-09-08 15:02:39,213 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面输入新增的事务内容
+2020-09-08 15:02:39,213 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x000001F6BEC3B288>, ('id', 'com.example.todolist:id/toDoItemDetailET'))
+2020-09-08 15:02:39,213 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x000001F6BEC3B288>, ('id', 'com.example.todolist:id/toDoItemDetailET'))
+2020-09-08 15:02:41,213 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击保存按钮
+2020-09-08 15:02:41,213 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x000001F6BEC3B288>, ('id', 'com.example.todolist:id/saveBtn'))
+2020-09-08 15:02:43,221 -test_appIncrease.py- appIncrease - INFO - -------------------APP自动化测试编辑事务场景开始执行-------------------
+2020-09-08 15:02:43,221 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在事务列表页面长按一条事务
+2020-09-08 15:02:43,221 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x000001F6BE0C1688>, ('class name', 'android.widget.RelativeLayout'))
+2020-09-08 15:02:45,239 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击编辑按钮
+2020-09-08 15:02:45,239 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x000001F6BE0C1688>, ('xpath', '//*[@text="编辑"]'))
+2020-09-08 15:32:20,291 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-08 15:32:20,291 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-08 15:32:30,482 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001C60C9684C8>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-08 15:32:30,482 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001C60C9684C8>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-08 15:32:32,483 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-08 15:32:42,630 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001C60C9684C8>, ('id', 'com.example.todolist:id/passwordET'))
+2020-09-08 15:32:42,630 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001C60C9684C8>, ('id', 'com.example.todolist:id/passwordET'))
+2020-09-08 15:32:44,631 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面点击登录按钮
+2020-09-08 15:35:07,321 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-08 15:35:07,321 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-08 15:35:07,321 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000022C2C2BE408>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-08 15:35:07,322 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000022C2C2BE408>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-08 15:35:09,323 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-08 15:35:09,323 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000022C2C2BE408>, ('id', 'com.example.todolist:id/passwordET'))
+2020-09-08 15:35:09,323 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000022C2C2BE408>, ('id', 'com.example.todolist:id/passwordET'))
+2020-09-08 15:35:11,324 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面点击登录按钮
+2020-09-08 15:35:11,324 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000022C2C2BE408>, ('id', 'com.example.todolist:id/loginBtn'))
+2020-09-08 15:35:11,341 -test_appIncrease.py- appIncrease - INFO - -------------------APP自动化测试新增事务场景开始执行-----------------------
+2020-09-08 15:35:11,342 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面右上角点击‘+’号
+2020-09-08 15:35:11,342 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x0000022C2CE211C8>, ('id', 'com.example.todolist:id/action_new'))
+2020-09-08 15:35:13,350 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面输入新增的事务内容
+2020-09-08 15:35:13,350 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x0000022C2CE211C8>, ('id', 'com.example.todolist:id/toDoItemDetailET'))
+2020-09-08 15:35:13,351 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x0000022C2CE211C8>, ('id', 'com.example.todolist:id/toDoItemDetailET'))
+2020-09-08 15:35:15,352 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击保存按钮
+2020-09-08 15:35:15,352 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x0000022C2CE211C8>, ('id', 'com.example.todolist:id/saveBtn'))
+2020-09-08 15:35:17,369 -test_appIncrease.py- appIncrease - INFO - -------------------APP自动化测试编辑事务场景开始执行-------------------
+2020-09-08 15:35:17,369 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在事务列表页面长按一条事务
+2020-09-08 15:35:17,369 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x0000022C2CDF07C8>, ('class name', 'android.widget.RelativeLayout'))
+2020-09-08 15:35:19,376 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击编辑按钮
+2020-09-08 15:35:19,376 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x0000022C2CDF07C8>, ('xpath', '//*[@text="编辑"]'))
+2020-09-08 15:35:21,386 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x0000022C2CDF07C8>, ('class name', 'android.widget.EditText'))
+2020-09-08 16:47:31,406 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-08 16:47:31,407 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-08 16:47:31,408 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000024BA1893948>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-08 16:47:31,408 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000024BA1893948>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-08 16:47:33,410 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-08 16:47:33,410 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000024BA1893948>, ('id', 'com.example.todolist:id/passwordET'))
+2020-09-08 16:47:33,410 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000024BA1893948>, ('id', 'com.example.todolist:id/passwordET'))
+2020-09-08 16:47:35,410 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面点击登录按钮
+2020-09-08 16:47:35,410 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000024BA1893948>, ('id', 'com.example.todolist:id/loginBtn'))
+2020-09-08 16:47:35,428 -test_appIncrease.py- appIncrease - INFO - -------------------APP自动化测试新增事务场景开始执行-----------------------
+2020-09-08 16:47:35,428 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面右上角点击‘+’号
+2020-09-08 16:47:35,428 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x0000024BA108ED48>, ('id', 'com.example.todolist:id/action_new'))
+2020-09-08 16:47:37,448 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面输入新增的事务内容
+2020-09-08 16:47:37,448 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x0000024BA108ED48>, ('id', 'com.example.todolist:id/toDoItemDetailET'))
+2020-09-08 16:47:37,448 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x0000024BA108ED48>, ('id', 'com.example.todolist:id/toDoItemDetailET'))
+2020-09-08 16:47:39,449 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击保存按钮
+2020-09-08 16:47:39,449 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x0000024BA108ED48>, ('id', 'com.example.todolist:id/saveBtn'))

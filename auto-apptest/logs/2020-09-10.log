@@ -1,0 +1,170 @@
+2020-09-10 15:56:04,516 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-10 15:57:12,742 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-10 15:57:12,742 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-10 15:57:22,970 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001BA3B881208>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 15:57:22,971 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001BA3B881208>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 15:57:24,972 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-10 15:57:35,148 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001BA3B881208>, ('id', 'com.example.todolist:id/passwordET'))
+2020-09-10 15:57:35,148 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001BA3B881208>, ('id', 'com.example.todolist:id/passwordET'))
+2020-09-10 15:57:37,148 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面点击登录按钮
+2020-09-10 15:57:47,331 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001BA3B881208>, ('id', 'com.example.todolist:id/loginBtn'))
+2020-09-10 15:57:47,471 -test_appIncrease.py- appIncrease - INFO - -------------------APP自动化测试新增事务场景开始执行-----------------------
+2020-09-10 15:57:47,471 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面右上角点击‘+’号
+2020-09-10 15:57:57,724 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x000001BA3B99FA48>, ('id', 'com.example.todolist:id/action_new'))
+2020-09-10 15:57:59,856 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面输入新增的事务内容
+2020-09-10 15:58:10,187 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x000001BA3B99FA48>, ('id', 'com.example.todolist:id/toDoItemDetailET'))
+2020-09-10 15:58:10,187 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x000001BA3B99FA48>, ('id', 'com.example.todolist:id/toDoItemDetailET'))
+2020-09-10 15:58:12,188 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击保存按钮
+2020-09-10 15:58:22,376 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x000001BA3B99FA48>, ('id', 'com.example.todolist:id/saveBtn'))
+2020-09-10 15:58:24,390 -test_appIncrease.py- appIncrease - INFO - -------------------APP自动化测试编辑事务场景开始执行-------------------
+2020-09-10 15:58:24,390 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在事务列表页面长按一条事务
+2020-09-10 15:58:34,547 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x000001BA3B9A1F08>, ('class name', 'android.widget.RelativeLayout'))
+2020-09-10 15:58:36,572 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击编辑按钮
+2020-09-10 15:58:54,115 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x000001BA3B9A1F08>, ('xpath', '//*[@text="编辑"]'))
+2020-09-10 15:59:06,347 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x000001BA3B9A1F08>, ('class name', 'android.widget.EditText'))
+2020-09-10 15:59:26,624 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-10 15:59:26,624 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-10 15:59:36,825 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001E1DD76D148>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 15:59:36,825 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001E1DD76D148>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 15:59:38,825 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-10 16:01:16,630 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-10 16:01:16,630 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-10 16:01:26,832 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000022E2F508F88>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 16:01:26,834 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000022E2F508F88>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 16:01:28,834 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-10 16:01:39,162 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000022E2F508F88>, ('id', 'com.example.todolist:id/passwordET'))
+2020-09-10 16:01:39,162 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000022E2F508F88>, ('id', 'com.example.todolist:id/passwordET'))
+2020-09-10 16:01:41,163 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面点击登录按钮
+2020-09-10 16:02:16,143 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-10 16:02:16,143 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-10 16:02:26,322 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001D244B11148>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 16:02:26,322 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001D244B11148>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 16:02:28,323 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-10 16:02:38,577 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001D244B11148>, ('id', 'com.example.todolist:id/passwordET'))
+2020-09-10 16:02:38,577 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001D244B11148>, ('id', 'com.example.todolist:id/passwordET'))
+2020-09-10 16:02:40,577 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面点击登录按钮
+2020-09-10 16:02:50,752 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001D244B11148>, ('id', 'com.example.todolist:id/loginBtn'))
+2020-09-10 16:02:50,773 -test_appIncrease.py- appIncrease - INFO - -------------------APP自动化测试新增事务场景开始执行-----------------------
+2020-09-10 16:02:50,773 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面右上角点击‘+’号
+2020-09-10 16:03:48,878 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-10 16:03:48,879 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-10 16:03:59,061 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000002C213BB4048>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 16:03:59,061 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000002C213BB4048>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 16:04:01,062 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-10 16:05:12,728 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-10 16:05:12,728 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-10 16:05:22,935 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x00000269EB2A8F88>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 16:05:22,935 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x00000269EB2A8F88>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 16:05:24,935 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-10 16:12:22,957 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-10 16:12:22,958 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-10 16:12:33,131 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001A831EE00C8>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 16:12:33,131 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001A831EE00C8>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 16:12:35,132 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-10 16:12:43,190 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001A831EE00C8>, ('id', 'com.example.todolist:id/passwordET'))
+2020-09-10 16:12:43,191 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001A831EE00C8>, ('id', 'com.example.todolist:id/passwordET'))
+2020-09-10 16:12:45,191 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面点击登录按钮
+2020-09-10 16:12:45,199 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001A831EE00C8>, ('id', 'com.example.todolist:id/loginBtn'))
+2020-09-10 16:12:45,217 -test_appIncrease.py- appIncrease - INFO - -------------------APP自动化测试新增事务场景开始执行-----------------------
+2020-09-10 16:12:45,217 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面右上角点击‘+’号
+2020-09-10 16:12:45,228 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x000001A831585F88>, ('id', 'com.example.todolist:id/action_new'))
+2020-09-10 16:12:47,243 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面输入新增的事务内容
+2020-09-10 16:12:55,253 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x000001A831585F88>, ('id', 'com.example.todolist:id/toDoItemDetailET'))
+2020-09-10 16:12:55,253 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x000001A831585F88>, ('id', 'com.example.todolist:id/toDoItemDetailET'))
+2020-09-10 16:12:57,254 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击保存按钮
+2020-09-10 16:13:05,278 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_BussinessHomepage.android_BussinessHomepage object at 0x000001A831585F88>, ('id', 'com.example.todolist:id/saveBtn'))
+2020-09-10 16:13:07,296 -test_appIncrease.py- appIncrease - INFO - -------------------APP自动化测试编辑事务场景开始执行-------------------
+2020-09-10 16:13:07,296 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在事务列表页面长按一条事务
+2020-09-10 16:13:39,617 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-10 16:13:39,617 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-10 16:13:49,853 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001D35FD49FC8>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 16:13:49,853 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001D35FD49FC8>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 16:13:51,853 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-10 16:23:18,321 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-10 16:23:18,322 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-10 16:23:28,482 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001EE09EDC3C8>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 16:23:28,482 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001EE09EDC3C8>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 16:23:30,483 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-10 16:53:36,668 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-10 16:53:36,668 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-10 16:53:37,630 -base.py- BasePage - INFO - 执行成功
+2020-09-10 16:53:39,631 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-10 16:53:40,225 -base.py- BasePage - INFO - 执行成功
+2020-09-10 16:53:42,226 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面点击登录按钮
+2020-09-10 16:53:42,326 -base.py- BasePage - INFO - 执行成功
+2020-09-10 16:53:42,327 -test_appIncrease.py- appIncrease - INFO - -------------------APP自动化测试新增事务场景开始执行-----------------------
+2020-09-10 16:53:42,327 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面右上角点击‘+’号
+2020-09-10 16:53:43,389 -base.py- BasePage - INFO - 执行成功
+2020-09-10 16:53:45,390 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面输入新增的事务内容
+2020-09-10 16:53:45,967 -base.py- BasePage - INFO - 执行成功
+2020-09-10 16:53:47,968 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击保存按钮
+2020-09-10 16:53:48,027 -base.py- BasePage - INFO - 执行成功
+2020-09-10 16:53:50,027 -test_appIncrease.py- appIncrease - INFO - -------------------APP自动化测试编辑事务场景开始执行-------------------
+2020-09-10 16:53:50,027 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在事务列表页面长按一条事务
+2020-09-10 16:53:50,845 -base.py- BasePage - INFO - 长按元素成功
+2020-09-10 16:53:52,846 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击编辑按钮
+2020-09-10 16:53:53,773 -base.py- BasePage - INFO - 执行成功
+2020-09-10 16:53:55,836 -base.py- BasePage - INFO - 清除文本框成功
+2020-09-10 16:53:55,836 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 对事务进行编辑
+2020-09-10 16:53:56,405 -base.py- BasePage - INFO - 执行成功
+2020-09-10 16:53:58,407 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 点击保存按钮
+2020-09-10 16:53:58,454 -base.py- BasePage - INFO - 执行成功
+2020-09-10 16:54:00,456 -test_appIncrease.py- appIncrease - INFO - --------------------APP自动化测试删除事务场景开始执行--------------------
+2020-09-10 16:54:00,456 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在事务列表页面长按一条事务
+2020-09-10 16:54:01,279 -base.py- BasePage - INFO - 长按元素成功
+2020-09-10 16:54:59,005 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-10 16:54:59,005 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-10 16:55:09,185 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001E1ADFDAB88>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 16:55:09,185 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001E1ADFDAB88>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 16:55:11,185 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-10 16:56:20,817 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-10 16:56:20,818 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-10 16:59:49,076 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-10 16:59:49,076 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-10 16:59:59,284 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001812EB4AF48>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 16:59:59,284 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001812EB4AF48>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 17:00:01,284 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-10 17:00:11,459 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001812EB4AF48>, ('id', 'com.example.todolist:id/passwordET'))
+2020-09-10 17:00:11,459 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x000001812EB4AF48>, ('id', 'com.example.todolist:id/passwordET'))
+2020-09-10 17:00:13,461 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面点击登录按钮
+2020-09-10 17:02:21,674 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-10 17:02:21,675 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-10 17:02:31,811 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x00000205A1D4D4C8>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 17:02:31,811 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x00000205A1D4D4C8>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 17:02:33,812 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-10 17:07:33,293 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-10 17:07:33,294 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-10 17:07:43,426 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000017F7B58C1C8>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 17:07:43,426 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000017F7B58C1C8>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 17:07:45,427 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-10 17:07:55,592 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000017F7B58C1C8>, ('id', 'com.example.todolist:id/passwordET'))
+2020-09-10 17:07:55,592 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000017F7B58C1C8>, ('id', 'com.example.todolist:id/passwordET'))
+2020-09-10 17:07:57,593 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面点击登录按钮
+2020-09-10 17:09:48,372 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-10 17:09:48,372 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-10 17:09:58,538 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000020C0A26AA08>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 17:09:58,538 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000020C0A26AA08>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 17:10:00,538 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-10 17:12:27,433 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-10 17:12:37,605 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000024CAF866EC8>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 17:12:37,605 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-10 17:12:47,779 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000024CAF866EC8>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 17:12:47,779 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000024CAF866EC8>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 17:12:49,779 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-10 17:18:01,838 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-10 17:18:01,839 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-10 17:18:12,015 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000025B7964EAC8>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 17:18:12,015 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x0000025B7964EAC8>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 17:18:14,016 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-10 17:24:02,543 -android_loadfile.py- appium_desired - INFO - =======开始启动APP===============
+2020-09-10 17:24:02,544 -test_appIncrease.py- appIncrease - INFO - --------------APP自动化测试登录场景开始执行----------------------
+2020-09-10 17:24:02,544 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入用户名
+2020-09-10 17:24:12,697 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x00000251B3985508>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 17:24:12,697 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x00000251B3985508>, ('id', 'com.example.todolist:id/nameET'))
+2020-09-10 17:24:14,698 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面输入密码
+2020-09-10 17:24:24,828 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x00000251B3985508>, ('id', 'com.example.todolist:id/passwordET'))
+2020-09-10 17:24:24,828 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x00000251B3985508>, ('id', 'com.example.todolist:id/passwordET'))
+2020-09-10 17:24:26,829 -android_LoginHomepage.py- android_LoginHomepage - INFO - 在APP登录页面点击登录按钮
+2020-09-10 17:24:36,974 -base.py- BasePage - ERROR - 执行失败(<PageObjects.android_LoginHomepage.android_LoginHomepage object at 0x00000251B3985508>, ('id', 'com.example.todolist:id/loginBtn'))
+2020-09-10 17:24:36,989 -test_appIncrease.py- appIncrease - INFO - -------------------APP自动化测试新增事务场景开始执行-----------------------
+2020-09-10 17:24:36,989 -android_BussinessHomepage.py- android_BussinessHomepage - INFO - 在app页面右上角点击‘+’号

@@ -1,0 +1,61 @@
+一、有些模拟器或者真机在Windows系统下可能直接执行 adb devices 时并不能直接连接成功，这时就需
+要使用命令 adb connect 127.0.0.1:port 来连接。port根据使用的模拟器来填写。例如：
+1、木木： 7555
+2、夜神： 62001
+3、海马：53001
+4、逍遥：21503
+5、天天：6555
+6、雷电、genymotion、谷歌原生：5555
+二、常用命令
+1、查看Package
+aapt d badging D:\auto-apptest\app\抖音.apk | findstr package
+2、查看Launchable-activity
+aapt d badging D:\auto-apptest\app\抖音.apk | findstr launchable
+3、获取platform版本：
+adb shell getprop ro.build.version.release
+4、获取api版本：
+adb shell getprop ro.build.version.sdk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
